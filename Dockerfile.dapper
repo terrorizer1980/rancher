@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:20.10
 # FROM arm=armhf/ubuntu:20.04 arm64=arm64v8/ubuntu:20.04
 
 ARG DAPPER_HOST_ARCH
